@@ -1,0 +1,181 @@
+%!PS-Adobe-2.0
+%%Title: : R32_GenJet_over_CaloJet
+%%Creator: ROOT Version 5.34/32
+%%CreationDate: Wed Feb  3 15:15:02 2016
+%%Orientation: Portrait
+%%EndComments
+%%BeginProlog
+/s {stroke} def /l {lineto} def /m {moveto} def /t {translate} def
+/r {rotate} def /rl {roll}  def /R {repeat} def
+/d {rlineto} def /rm {rmoveto} def /gr {grestore} def /f {eofill} def
+/c {setrgbcolor} def /black {0 setgray} def /sd {setdash} def
+/cl {closepath} def /sf {scalefont setfont} def /lw {setlinewidth} def
+/box {m dup 0 exch d exch 0 d 0 exch neg d cl} def
+/NC{systemdict begin initclip end}def/C{NC box clip newpath}def
+/bl {box s} def /bf {gsave box gsave f grestore 1 lw [] 0 sd s grestore} def /Y { 0 exch d} def /X { 0 d} def 
+/K {{pop pop 0 moveto} exch kshow} bind def
+/ita {/ang 15 def gsave [1 0 ang dup sin exch cos div 1 0 0] concat} def 
+/mp {newpath /y exch def /x exch def} def
+/side {[w .77 mul w .23 mul] .385 w mul sd w 0 l currentpoint t -144 r} def
+/mr {mp x y w2 0 360 arc} def /m24 {mr s} def /m20 {mr f} def
+/mb {mp x y w2 add m w2 neg 0 d 0 w neg d w 0 d 0 w d cl} def
+/mt {mp x y w2 add m w2 neg w neg d w 0 d cl} def
+/m21 {mb f} def /m25 {mb s} def /m22 {mt f} def /m26{mt s} def
+/m23 {mp x y w2 sub m w2 w d w neg 0 d cl f} def
+/m27 {mp x y w2 add m w3 neg w2 neg d w3 w2 neg d w3 w2 d cl s} def
+/m28 {mp x w2 sub y w2 sub w3 add m w3 0 d  0 w3 neg d w3 0 d 0 w3 d w3 0 d  0 w3 d w3 neg 0 d 0 w3 d w3 neg 0 d 0 w3 neg d w3 neg 0 d cl s } def
+/m29 {mp gsave x w2 sub y w2 add w3 sub m currentpoint t 4 {side} repeat cl fill gr} def
+/m30 {mp gsave x w2 sub y w2 add w3 sub m currentpoint t 4 {side} repeat cl s gr} def
+/m31 {mp x y w2 sub m 0 w d x w2 sub y m w 0 d x w2 sub y w2 add m w w neg d x w2 sub y w2 sub m w w d s} def
+/m32 {mp x y w2 sub m w2 w d w neg 0 d cl s} def
+/m33 {mp x y w2 add m w3 neg w2 neg d w3 w2 neg d w3 w2 d cl f} def
+/m34 {mp x w2 sub y w2 sub w3 add m w3 0 d  0 w3 neg d w3 0 d 0 w3 d w3 0 d  0 w3 d w3 neg 0 d 0 w3 d w3 neg 0 d 0 w3 neg d w3 neg 0 d cl f } def
+/m2 {mp x y w2 sub m 0 w d x w2 sub y m w 0 d s} def
+/m5 {mp x w2 sub y w2 sub m w w d x w2 sub y w2 add m w w neg d s} def
+/reEncode {exch findfont dup length dict begin {1 index /FID eq  {pop pop} {def} ifelse } forall /Encoding exch def currentdict end dup /FontName get exch definefont pop } def [/Times-Bold /Times-Italic /Times-BoldItalic /Helvetica /Helvetica-Oblique
+ /Helvetica-Bold /Helvetica-BoldOblique /Courier /Courier-Oblique /Courier-Bold /Courier-BoldOblique /Times-Roman /AvantGarde-Book /AvantGarde-BookOblique /AvantGarde-Demi /AvantGarde-DemiOblique /Bookman-Demi /Bookman-DemiItalic /Bookman-Light
+ /Bookman-LightItalic /Helvetica-Narrow /Helvetica-Narrow-Bold /Helvetica-Narrow-BoldOblique /Helvetica-Narrow-Oblique /NewCenturySchlbk-Roman /NewCenturySchlbk-Bold /NewCenturySchlbk-BoldItalic /NewCenturySchlbk-Italic /Palatino-Bold
+ /Palatino-BoldItalic /Palatino-Italic /Palatino-Roman ] {ISOLatin1Encoding reEncode } forall/Zone {/iy exch def /ix exch def  ix 1 sub  2224 mul  1 iy sub  3144 mul t} def
+%%EndProlog
+%%BeginSetup
+%%EndSetup
+newpath  gsave  20 28 t .25 .25 scale  gsave 
+%%Page: 1 1
+ gsave  gsave 
+ 1 1 Zone
+ gsave  0 0 t black[  ] 0 sd 3 lw 1 1 1 c 2002 2948 0 0 bf black 1 1 1 c 1962 1416 20 1503 bf black 1 1 1 c 1570 1132 216 1645 bf black 1570 1132 216 1645 bl 216 1645 m 1570 X s[ 4 8] 0 sd 216 2777 m -1132 Y s 373 2777 m -1132 Y s 530 2777 m -1132 Y
+ s 687 2777 m -1132 Y s 844 2777 m -1132 Y s 1001 2777 m -1132 Y s 1158 2777 m -1132 Y s 1315 2777 m -1132 Y s 1472 2777 m -1132 Y s 1629 2777 m -1132 Y s 1786 2777 m -1132 Y s[  ] 0 sd 216 1645 m 1132 Y s[ 4 8] 0 sd 1786 1645 m -1570 X s 1786 1758 m
+ -1570 X s 1786 1871 m -1570 X s 1786 1985 m -1570 X s 1786 2098 m -1570 X s 1786 2211 m -1570 X s 1786 2324 m -1570 X s 1786 2437 m -1570 X s 1786 2551 m -1570 X s 1786 2664 m -1570 X s 1786 2777 m -1570 X s 0 0 1 c[  ] 0 sd 1 1 1 c 0 0 1 c 216 1645
+ m 126 X 12 Y 16 X 29 Y 15 X 49 Y 16 X 64 Y 16 X 56 Y 15 X 73 Y 16 X 66 Y 16 X 49 Y 15 X 51 Y 16 X 41 Y 16 X 43 Y 15 X 24 Y 16 X 63 Y 16 X 22 Y 16 X 25 Y 15 X -11 Y 16 X 69 Y 16 X 19 Y 15 X 28 Y 16 X -3 Y 16 X 19 Y 15 X 21 Y 16 X 3 Y 16 X 8 Y 16 X 10
+ Y 15 X 17 Y 16 X 9 Y 16 X 2 Y 15 X 15 Y 16 X 11 Y 16 X -18 Y 15 X 10 Y 16 X 40 Y 16 X -39 Y 16 X 16 Y 15 X 22 Y 16 X -26 Y 16 X 45 Y 15 X -19 Y 16 X 2 Y 16 X 1 Y 15 X -3 Y 16 X 35 Y 16 X -30 Y 16 X 17 Y 15 X -8 Y 16 X 19 Y 16 X -9 Y 15 X -1 Y 16 X
+ 26 Y 16 X -1 Y 15 X 4 Y 16 X 11 Y 16 X -9 Y 15 X -10 Y 16 X -6 Y 16 X 20 Y 16 X -8 Y 15 X 3 Y 16 X -3 Y 16 X -10 Y 15 X 20 Y 16 X -9 Y 16 X 20 Y 15 X -33 Y 16 X -24 Y 16 X 45 Y 16 X -4 Y 15 X 22 Y 16 X -18 Y 16 X 3 Y 15 X -22 Y 16 X 24 Y 16 X -36 Y
+ 15 X 73 Y 16 X -31 Y 16 X -27 Y 16 X -8 Y 15 X 25 Y 16 X -26 Y 16 X 35 Y 15 X -2 Y 16 X -44 Y 16 X 32 Y 15 X -7 Y 16 X 46 Y 16 X -73 Y 16 X 4 Y 15 X 11 Y 16 X -36 Y 16 X 18 Y 15 X 107 Y 16 X s black 1 1 1 c 392 227 1551 2600 bf black 1551 2600 m 392
+ X s 1943 2600 m 227 Y s 1943 2827 m -392 X s 1551 2827 m -227 Y s 1 1 1 c black
+ gsave  1962 1416 20 1503 C 1702.92 2789.56 t 0 r /Helvetica findfont 45.3221 sf 0 0 m ( for GenJet) show NC gr 
+ gsave  1962 1416 20 1503 C 1670.22 2774.47 t 0 r /Helvetica findfont 30.2147 sf 0 0 m (32) show NC gr 
+ gsave  1962 1416 20 1503 C 1564.57 2789.56 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (Ratio) show NC gr  1551 2770 m 392 X s
+ gsave  1962 1416 20 1503 C 1569.6 2724.16 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (Entries ) show NC gr 
+ gsave  1962 1416 20 1503 C 1856.35 2724.16 t 0 r /Helvetica findfont 47.8399 sf 0 0 m ( 68) show NC gr 
+ gsave  1962 1416 20 1503 C 1569.6 2668.82 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (Mean  ) show NC gr 
+ gsave  1962 1416 20 1503 C 1775.86 2668.82 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (   1192) show NC gr 
+ gsave  1962 1416 20 1503 C 1569.6 2608.45 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (RMS   ) show NC gr 
+ gsave  1962 1416 20 1503 C 1775.86 2610.97 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (  479.6) show NC gr  216 1645 m 1570 X s
+ gsave  1962 1416 20 1503 C 1496.65 1551.99 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (Gen HT \(GeV\)) show NC gr  216 1679 m -34 Y s 255 1662 m -17 Y s 295 1662 m -17 Y s 334 1662 m -17 Y s 373 1679 m -34 Y s 412 1662 m -17 Y s 452 1662 m -17 Y s
+ 491 1662 m -17 Y s 530 1679 m -34 Y s 569 1662 m -17 Y s 609 1662 m -17 Y s 648 1662 m -17 Y s 687 1679 m -34 Y s 726 1662 m -17 Y s 766 1662 m -17 Y s 805 1662 m -17 Y s 844 1679 m -34 Y s 883 1662 m -17 Y s 923 1662 m -17 Y s 962 1662 m -17 Y s
+ 1001 1679 m -34 Y s 1040 1662 m -17 Y s 1080 1662 m -17 Y s 1119 1662 m -17 Y s 1158 1679 m -34 Y s 1197 1662 m -17 Y s 1237 1662 m -17 Y s 1276 1662 m -17 Y s 1315 1679 m -34 Y s 1354 1662 m -17 Y s 1394 1662 m -17 Y s 1433 1662 m -17 Y s 1472 1679
+ m -34 Y s 1511 1662 m -17 Y s 1551 1662 m -17 Y s 1590 1662 m -17 Y s 1629 1679 m -34 Y s 1668 1662 m -17 Y s 1708 1662 m -17 Y s 1747 1662 m -17 Y s 1786 1679 m -34 Y s
+ gsave  1962 1416 20 1503 C 201.231 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0) show NC gr 
+ gsave  1962 1416 20 1503 C 334.546 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (200) show NC gr 
+ gsave  1962 1416 20 1503 C 490.5 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (400) show NC gr 
+ gsave  1962 1416 20 1503 C 648.969 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (600) show NC gr 
+ gsave  1962 1416 20 1503 C 804.923 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (800) show NC gr 
+ gsave  1962 1416 20 1503 C 950.816 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1000) show NC gr 
+ gsave  1962 1416 20 1503 C 1106.77 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1200) show NC gr 
+ gsave  1962 1416 20 1503 C 1262.72 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1400) show NC gr 
+ gsave  1962 1416 20 1503 C 1421.19 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1600) show NC gr 
+ gsave  1962 1416 20 1503 C 1577.15 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1800) show NC gr 
+ gsave  1962 1416 20 1503 C 1735.62 1599.79 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (2000) show NC gr  216 1645 m 1132 Y s
+ gsave  1962 1416 20 1503 C 115.708 2555.63 t 90 r /Helvetica findfont 45.3221 sf 0 0 m ( for GenJet) show NC gr 
+ gsave  1962 1416 20 1503 C 130.8 2522.93 t 90 r /Helvetica findfont 30.2147 sf 0 0 m (32) show NC gr 
+ gsave  1962 1416 20 1503 C 115.708 2417.29 t 90 r /Helvetica findfont 45.3221 sf 0 0 m (Ratio) show NC gr  263 1645 m -47 X s 240 1668 m -24 X s 240 1690 m -24 X s 240 1713 m -24 X s 240 1736 m -24 X s 263 1758 m -47 X s 240 1781 m -24 X s 240 1803
+ m -24 X s 240 1826 m -24 X s 240 1849 m -24 X s 263 1871 m -47 X s 240 1894 m -24 X s 240 1917 m -24 X s 240 1939 m -24 X s 240 1962 m -24 X s 263 1985 m -47 X s 240 2007 m -24 X s 240 2030 m -24 X s 240 2053 m -24 X s 240 2075 m -24 X s 263 2098 m
+ -47 X s 240 2120 m -24 X s 240 2143 m -24 X s 240 2166 m -24 X s 240 2188 m -24 X s 263 2211 m -47 X s 240 2234 m -24 X s 240 2256 m -24 X s 240 2279 m -24 X s 240 2302 m -24 X s 263 2324 m -47 X s 240 2347 m -24 X s 240 2370 m -24 X s 240 2392 m
+ -24 X s 240 2415 m -24 X s 263 2437 m -47 X s 240 2460 m -24 X s 240 2483 m -24 X s 240 2505 m -24 X s 240 2528 m -24 X s 263 2551 m -47 X s 240 2573 m -24 X s 240 2596 m -24 X s 240 2619 m -24 X s 240 2641 m -24 X s 263 2664 m -47 X s 240 2686 m
+ -24 X s 240 2709 m -24 X s 240 2732 m -24 X s 240 2754 m -24 X s 263 2777 m -47 X s
+ gsave  1962 1416 20 1503 C 181.108 1627.45 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0) show NC gr 
+ gsave  1962 1416 20 1503 C 150.923 1740.65 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.1) show NC gr 
+ gsave  1962 1416 20 1503 C 143.377 1853.84 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.2) show NC gr 
+ gsave  1962 1416 20 1503 C 143.377 1967.03 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.3) show NC gr 
+ gsave  1962 1416 20 1503 C 143.377 2080.22 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.4) show NC gr 
+ gsave  1962 1416 20 1503 C 143.377 2193.42 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.5) show NC gr 
+ gsave  1962 1416 20 1503 C 143.377 2309.12 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.6) show NC gr 
+ gsave  1962 1416 20 1503 C 143.377 2422.32 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.7) show NC gr 
+ gsave  1962 1416 20 1503 C 143.377 2535.51 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.8) show NC gr 
+ gsave  1962 1416 20 1503 C 143.377 2648.7 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.9) show NC gr 
+ gsave  1962 1416 20 1503 C 188.654 2761.89 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1) show NC gr  1 1 1 c black
+ gsave  1962 1416 20 1503 C 611.239 2847.42 t 0 r /Helvetica findfont 62.9473 sf 0 0 m (R32 for GenJet and CaloJet) show NC gr  1 1 1 c 392 227 1551 2600 bf black 1551 2600 m 392 X s 1943 2600 m 227 Y s 1943 2827 m -392 X s 1551 2827 m -227 Y s 1 1 1
+ c black
+ gsave  1962 1416 20 1503 C 1702.92 2789.56 t 0 r /Helvetica findfont 45.3221 sf 0 0 m ( for GenJet) show NC gr 
+ gsave  1962 1416 20 1503 C 1670.22 2774.47 t 0 r /Helvetica findfont 30.2147 sf 0 0 m (32) show NC gr 
+ gsave  1962 1416 20 1503 C 1564.57 2789.56 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (Ratio) show NC gr  1551 2770 m 392 X s
+ gsave  1962 1416 20 1503 C 1569.6 2724.16 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (Entries ) show NC gr 
+ gsave  1962 1416 20 1503 C 1856.35 2724.16 t 0 r /Helvetica findfont 47.8399 sf 0 0 m ( 68) show NC gr 
+ gsave  1962 1416 20 1503 C 1569.6 2668.82 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (Mean  ) show NC gr 
+ gsave  1962 1416 20 1503 C 1775.86 2668.82 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (   1192) show NC gr 
+ gsave  1962 1416 20 1503 C 1569.6 2608.45 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (RMS   ) show NC gr 
+ gsave  1962 1416 20 1503 C 1775.86 2610.97 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (  479.6) show NC gr  1 0 0 c 1 1 1 c 0 0 1 c 1 0 0 c 216 1645 m 110 X 1 Y 16 X 18 Y 16 X 34 Y 15 X 53 Y 16 X 60 Y 16 X 76 Y 15 X 50 Y 16 X 74 Y 16 X 71 Y 15 X 53
+ Y 16 X 35 Y 16 X 47 Y 15 X 45 Y 16 X 15 Y 16 X 59 Y 16 X 28 Y 15 X 13 Y 16 X 37 Y 16 X 14 Y 15 X 26 Y 16 X 17 Y 16 X -9 Y 15 X 16 Y 16 X 29 Y 16 X 7 Y 31 X 13 Y 16 X 12 Y 16 X 13 Y 15 X -2 Y 16 X -7 Y 16 X 5 Y 15 X 24 Y 16 X 5 Y 16 X -4 Y 16 X 1 Y
+ 15 X -8 Y 16 X 20 Y 16 X -1 Y 15 X 10 Y 16 X 8 Y 16 X 15 Y 15 X 6 Y 16 X -26 Y 16 X 22 Y 16 X -23 Y 15 X 28 Y 16 X -1 Y 16 X -15 Y 15 X 18 Y 16 X -3 Y 16 X -8 Y 15 X 12 Y 16 X -3 Y 16 X 20 Y 15 X -19 Y 16 X 16 Y 16 X -10 Y 16 X 9 Y 15 X 7 Y 16 X -8
+ Y 16 X -14 Y 15 X 1 Y 16 X 7 Y 16 X 4 Y 15 X 10 Y 16 X -1 Y 16 X -10 Y 16 X 15 Y 15 X -3 Y 16 X 11 Y 16 X -16 Y 15 X 4 Y 32 X -25 Y 15 X 19 Y 16 X 20 Y 16 X 2 Y 16 X -2 Y 15 X -18 Y 16 X -17 Y 16 X 18 Y 15 X 59 Y 16 X -95 Y 16 X 43 Y 15 X -20 Y 16 X
+ 24 Y 16 X -63 Y 16 X -11 Y 15 X 28 Y 16 X 89 Y 16 X -90 Y 15 X 6 Y 16 X s black 1 1 1 c 392 227 1551 2600 bf black 1551 2600 m 392 X s 1943 2600 m 227 Y s 1943 2827 m -392 X s 1551 2827 m -227 Y s 1 1 1 c black
+ gsave  1962 1416 20 1503 C 1700.4 2792.08 t 0 r /Helvetica findfont 42.8042 sf 0 0 m ( for CaloJet) show NC gr 
+ gsave  1962 1416 20 1503 C 1670.22 2774.47 t 0 r /Helvetica findfont 27.6968 sf 0 0 m (32) show NC gr 
+ gsave  1962 1416 20 1503 C 1569.6 2792.08 t 0 r /Helvetica findfont 42.8042 sf 0 0 m (Ratio) show NC gr  1551 2770 m 392 X s
+ gsave  1962 1416 20 1503 C 1569.6 2724.16 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (Entries ) show NC gr 
+ gsave  1962 1416 20 1503 C 1856.35 2724.16 t 0 r /Helvetica findfont 47.8399 sf 0 0 m ( 70) show NC gr 
+ gsave  1962 1416 20 1503 C 1569.6 2668.82 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (Mean  ) show NC gr 
+ gsave  1962 1416 20 1503 C 1775.86 2668.82 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (   1187) show NC gr 
+ gsave  1962 1416 20 1503 C 1569.6 2608.45 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (RMS   ) show NC gr 
+ gsave  1962 1416 20 1503 C 1775.86 2610.97 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (  481.6) show NC gr  1 1 1 c black
+ gsave  1962 1416 20 1503 C 611.239 2847.42 t 0 r /Helvetica findfont 62.9473 sf 0 0 m (R32 for GenJet and CaloJet) show NC gr  1 1 1 c 1962 1416 20 29 bf black 1 1 1 c 1570 1132 216 171 bf black 1570 1132 216 171 bl 216 171 m 1570 X s[ 4 8] 0 sd 216
+ 1303 m -1132 Y s 373 1303 m -1132 Y s 530 1303 m -1132 Y s 687 1303 m -1132 Y s 844 1303 m -1132 Y s 1001 1303 m -1132 Y s 1158 1303 m -1132 Y s 1315 1303 m -1132 Y s 1472 1303 m -1132 Y s 1629 1303 m -1132 Y s 1786 1303 m -1132 Y s[  ] 0 sd 216 171
+ m 1132 Y s[ 4 8] 0 sd 1786 171 m -1570 X s 1786 284 m -1570 X s 1786 397 m -1570 X s 1786 511 m -1570 X s 1786 624 m -1570 X s 1786 737 m -1570 X s 1786 850 m -1570 X s 1786 963 m -1570 X s 1786 1077 m -1570 X s 1786 1190 m -1570 X s 1786 1303 m
+ -1570 X s 0 1 1 c[  ] 0 sd 1 1 1 c 0 0 1 c 0 1 1 c 216 171 m 110 X 1132 Y 16 X -275 Y 16 X -136 Y 15 X -51 Y 16 X -62 Y 16 X 45 Y 15 X -69 Y 16 X 9 Y 16 X 28 Y 15 X -4 Y 16 X -11 Y 16 X 2 Y 15 X 19 Y 16 X -49 Y 16 X 32 Y 31 X 21 Y 16 X -31 Y 16 X -4
+ Y 15 X -3 Y 16 X 15 Y 16 X -22 Y 15 X -3 Y 16 X 18 Y 16 X -2 Y 16 X -7 Y 15 X -2 Y 16 X 2 Y 16 X 7 Y 15 X -12 Y 16 X -12 Y 16 X 15 Y 15 X 9 Y 16 X -23 Y 16 X 23 Y 16 X -10 Y 15 X -19 Y 16 X 29 Y 16 X -30 Y 15 X 19 Y 16 X 3 Y 16 X 9 Y 15 X 6 Y 16 X
+ -38 Y 16 X 32 Y 16 X -25 Y 15 X 22 Y 16 X -12 Y 16 X -4 Y 15 X 11 Y 16 X -17 Y 16 X -4 Y 15 X 5 Y 16 X -9 Y 16 X 17 Y 15 X -5 Y 16 X 13 Y 16 X -18 Y 16 X 10 Y 15 X 2 Y 16 X -2 Y 16 X -3 Y 15 X -11 Y 16 X 9 Y 16 X -9 Y 15 X 25 Y 16 X 16 Y 16 X -35 Y
+ 16 X 11 Y 15 X -14 Y 16 X 17 Y 16 X -11 Y 15 X 16 Y 16 X -15 Y 16 X 7 Y 15 X -32 Y 16 X 29 Y 16 X 18 Y 16 X 4 Y 15 X -26 Y 16 X 5 Y 16 X -10 Y 15 X 36 Y 16 X -29 Y 16 X 5 Y 15 X -6 Y 16 X -14 Y 16 X 6 Y 16 X -9 Y 15 X 10 Y 16 X 78 Y 16 X -67 Y 15 X
+ -57 Y 16 X s black 1 1 1 c 392 227 1551 1126 bf black 1551 1126 m 392 X s 1943 1126 m 227 Y s 1943 1353 m -392 X s 1551 1353 m -227 Y s 1 1 1 c black
+ gsave  1962 1416 20 29 C 1700.4 1318.06 t 0 r /Helvetica findfont 42.8042 sf 0 0 m ( for CaloJet) show NC gr 
+ gsave  1962 1416 20 29 C 1670.22 1300.45 t 0 r /Helvetica findfont 27.6968 sf 0 0 m (32) show NC gr 
+ gsave  1962 1416 20 29 C 1569.6 1318.06 t 0 r /Helvetica findfont 42.8042 sf 0 0 m (Ratio) show NC gr  1551 1296 m 392 X s
+ gsave  1962 1416 20 29 C 1569.6 1250.15 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (Entries ) show NC gr 
+ gsave  1962 1416 20 29 C 1856.35 1250.15 t 0 r /Helvetica findfont 47.8399 sf 0 0 m ( 70) show NC gr 
+ gsave  1962 1416 20 29 C 1569.6 1194.81 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (Mean  ) show NC gr 
+ gsave  1962 1416 20 29 C 1775.86 1194.81 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (   1187) show NC gr 
+ gsave  1962 1416 20 29 C 1569.6 1134.44 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (RMS   ) show NC gr 
+ gsave  1962 1416 20 29 C 1775.86 1136.95 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (  481.6) show NC gr  216 171 m 1570 X s
+ gsave  1962 1416 20 29 C 1607.33 77.9769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (HT\(GeV\)) show NC gr  216 205 m -34 Y s 255 188 m -17 Y s 295 188 m -17 Y s 334 188 m -17 Y s 373 205 m -34 Y s 412 188 m -17 Y s 452 188 m -17 Y s 491 188 m -17 Y
+ s 530 205 m -34 Y s 569 188 m -17 Y s 609 188 m -17 Y s 648 188 m -17 Y s 687 205 m -34 Y s 726 188 m -17 Y s 766 188 m -17 Y s 805 188 m -17 Y s 844 205 m -34 Y s 883 188 m -17 Y s 923 188 m -17 Y s 962 188 m -17 Y s 1001 205 m -34 Y s 1040 188 m
+ -17 Y s 1080 188 m -17 Y s 1119 188 m -17 Y s 1158 205 m -34 Y s 1197 188 m -17 Y s 1237 188 m -17 Y s 1276 188 m -17 Y s 1315 205 m -34 Y s 1354 188 m -17 Y s 1394 188 m -17 Y s 1433 188 m -17 Y s 1472 205 m -34 Y s 1511 188 m -17 Y s 1551 188 m
+ -17 Y s 1590 188 m -17 Y s 1629 205 m -34 Y s 1668 188 m -17 Y s 1708 188 m -17 Y s 1747 188 m -17 Y s 1786 205 m -34 Y s
+ gsave  1962 1416 20 29 C 201.231 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0) show NC gr 
+ gsave  1962 1416 20 29 C 334.546 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (200) show NC gr 
+ gsave  1962 1416 20 29 C 490.5 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (400) show NC gr 
+ gsave  1962 1416 20 29 C 648.969 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (600) show NC gr 
+ gsave  1962 1416 20 29 C 804.923 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (800) show NC gr 
+ gsave  1962 1416 20 29 C 950.816 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1000) show NC gr 
+ gsave  1962 1416 20 29 C 1106.77 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1200) show NC gr 
+ gsave  1962 1416 20 29 C 1262.72 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1400) show NC gr 
+ gsave  1962 1416 20 29 C 1421.19 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1600) show NC gr 
+ gsave  1962 1416 20 29 C 1577.15 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1800) show NC gr 
+ gsave  1962 1416 20 29 C 1735.62 125.769 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (2000) show NC gr  216 171 m 1132 Y s
+ gsave  1962 1416 20 29 C 118.223 669.092 t 90 r /Helvetica findfont 45.3221 sf 0 0 m (CaloJet\(R32\) over GenJet\(R32\)) show NC gr  263 171 m -47 X s 240 199 m -24 X s 240 228 m -24 X s 240 256 m -24 X s 263 284 m -47 X s 240 312 m -24 X s 240 341
+ m -24 X s 240 369 m -24 X s 263 397 m -47 X s 240 426 m -24 X s 240 454 m -24 X s 240 482 m -24 X s 263 511 m -47 X s 240 539 m -24 X s 240 567 m -24 X s 240 596 m -24 X s 263 624 m -47 X s 240 652 m -24 X s 240 680 m -24 X s 240 709 m -24 X s 263
+ 737 m -47 X s 240 765 m -24 X s 240 794 m -24 X s 240 822 m -24 X s 263 850 m -47 X s 240 879 m -24 X s 240 907 m -24 X s 240 935 m -24 X s 263 963 m -47 X s 240 992 m -24 X s 240 1020 m -24 X s 240 1048 m -24 X s 263 1077 m -47 X s 240 1105 m -24 X
+ s 240 1133 m -24 X s 240 1162 m -24 X s 263 1190 m -47 X s 240 1218 m -24 X s 240 1246 m -24 X s 240 1275 m -24 X s 263 1303 m -47 X s
+ gsave  1962 1416 20 29 C 181.108 153.438 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0) show NC gr 
+ gsave  1962 1416 20 29 C 143.377 266.631 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.2) show NC gr 
+ gsave  1962 1416 20 29 C 143.377 379.823 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.4) show NC gr 
+ gsave  1962 1416 20 29 C 143.377 493.016 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.6) show NC gr 
+ gsave  1962 1416 20 29 C 143.377 606.208 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (0.8) show NC gr 
+ gsave  1962 1416 20 29 C 188.654 719.4 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1) show NC gr 
+ gsave  1962 1416 20 29 C 143.377 835.108 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1.2) show NC gr 
+ gsave  1962 1416 20 29 C 143.377 948.3 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1.4) show NC gr 
+ gsave  1962 1416 20 29 C 143.377 1061.49 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1.6) show NC gr 
+ gsave  1962 1416 20 29 C 143.377 1174.68 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (1.8) show NC gr 
+ gsave  1962 1416 20 29 C 181.108 1287.88 t 0 r /Helvetica findfont 45.3221 sf 0 0 m (2) show NC gr  1 1 1 c black
+ gsave  1962 1416 20 29 C 523.2 1375.92 t 0 r /Helvetica findfont 67.9831 sf 0 0 m (CaloJet\(R32\) over GenJet\(R32\)) show NC gr  1 1 1 c 392 227 1551 1126 bf black 1551 1126 m 392 X s 1943 1126 m 227 Y s 1943 1353 m -392 X s 1551 1353 m -227 Y s 1
+ 1 1 c black
+ gsave  1962 1416 20 29 C 1557.02 1318.06 t 0 r /Helvetica findfont 22.661 sf 0 0 m (Ratio CaloJet\(R32\) over GenJet\(R32\)) show NC gr  1551 1296 m 392 X s
+ gsave  1962 1416 20 29 C 1569.6 1250.15 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (Entries ) show NC gr 
+ gsave  1962 1416 20 29 C 1856.35 1250.15 t 0 r /Helvetica findfont 47.8399 sf 0 0 m ( 99) show NC gr 
+ gsave  1962 1416 20 29 C 1569.6 1194.81 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (Mean  ) show NC gr 
+ gsave  1962 1416 20 29 C 1775.86 1194.81 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (   1042) show NC gr 
+ gsave  1962 1416 20 29 C 1569.6 1134.44 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (RMS   ) show NC gr 
+ gsave  1962 1416 20 29 C 1775.86 1136.95 t 0 r /Helvetica findfont 47.8399 sf 0 0 m (  548.9) show NC gr  1 1 1 c black
+ gsave  1962 1416 20 29 C 523.2 1375.92 t 0 r /Helvetica findfont 67.9831 sf 0 0 m (CaloJet\(R32\) over GenJet\(R32\)) show NC gr  gr showpage
+ gr 
+%%Trailer
+%%Pages:  1
+ gr  gr  gr 
+%%EOF
